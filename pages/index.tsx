@@ -24,7 +24,7 @@ const Home: NextPage = () => {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
         <Link href='money'>
-            <Button variant="contained"> Olá Mundo</Button>
+            <Button variant="contained">money bonitão , 50 pila na minha mão</Button>
         </Link>
 
        
